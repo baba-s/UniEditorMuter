@@ -2,7 +2,7 @@
 using UnityEditor;
 using UnityEngine.Events;
 
-namespace KoganeUnityLib
+namespace UniEditorMuter
 {
 	internal static class EditorApplicationUtility
 	{
